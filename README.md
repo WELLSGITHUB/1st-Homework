@@ -13,3 +13,5 @@ Linear Feet | Width  | Math  |
 | :--- | ---:  |  :---:
 250 feet  | 12"  |  (250X12")=3000 inches  |
 1000 feet  | "21  |  (1000x21")=21000 inches  |
+>>>
+[Calculator] (https://apps.microsoft.com/detail/9wzdncrfhvn5?hl=en-US&gl=US)
